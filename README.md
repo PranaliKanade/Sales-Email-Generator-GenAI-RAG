@@ -1,4 +1,4 @@
-** Sales Email Generator using Gemini genAi RAG
+# Sales Email Generator using Gemini genAi RAG
 
 **Project Goal:**
 
