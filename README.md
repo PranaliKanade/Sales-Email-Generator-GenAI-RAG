@@ -1,3 +1,5 @@
+** Sales Email Generator using Gemini genAi RAG
+
 **Project Goal:**
 
 The primary aim of this notebook is to automate the process of creating personalized cold emails for business development. It achieves this by combining web scraping, large language models (LLMs), and a vector database to intelligently extract job details, find relevant past projects, and generate tailored outreach emails.
